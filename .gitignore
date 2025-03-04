@@ -1,5 +1,12 @@
+# Ignorar node_modules
 node_modules/
+
+# Ignorar arquivos de ambiente
 .env
+
+# Ignorar logs
 logs/
 *.log
+
+# Ignorar arquivos do sistema
 .DS_Store
